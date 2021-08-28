@@ -10,7 +10,7 @@
 </div>
 
 <div height='45' align="center">
-<h2>My Repositories <br>
+<h2>My Repositories: <br>
   </br>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=praiman99&repo=AutoScriptVPN)](https://github.com/praiman99/AutoScriptVPN)
