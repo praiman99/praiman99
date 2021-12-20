@@ -12,7 +12,7 @@
 <h2>My Repositories: <br>
   </br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=praiman99&repo=AutoScriptVPN)](https://github.com/praiman99/Protection-VPS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=praiman99&repo=Protection-VPS)](https://github.com/praiman99/Protection-VPS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=praiman99&repo=AutoScriptVPN)](https://github.com/praiman99/AutoScriptVPN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=praiman99&repo=AutoScriptVPN-WG)](https://github.com/praiman99/AutoScriptVPN-WG)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=praiman99&repo=AutoScriptVPN-V2ray)](https://github.com/praiman99/AutoScriptVPN-V2ray)
