@@ -3,8 +3,8 @@
 </p>
 <div height='45' align="center">
 <h2>Contact me: <br>
-<a href="https://github.com/praiman99"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-<a href="https://t.me/PR_Aiman"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height='50'> </a>
+<a href="https://github.com/praiman99"> <img src="https://img.icons8.com/ios-glyphs/120/FFFFFF/github.png" height='50'> </a>
+<a href="https://t.me/PR_Aiman"> <img src="https://img.icons8.com/ios-filled/100/FFFFFF/telegram.png" height='50'> </a>
 </h2>
 </div>
 
